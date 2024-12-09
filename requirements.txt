@@ -1,0 +1,5 @@
+slack_sdk
+flask
+python-dotenv
+cryptography
+requests
